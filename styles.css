@@ -4,7 +4,7 @@
 }
 
 body{
-	font-family: 'heveltica' ;
+	font-family: 'heveltica' , sans-serif;
 	background-color: rgb(77, 75, 75);
 }
 body, ul{
@@ -13,8 +13,7 @@ body, ul{
 }
 
 h1,h2, .skill-list {
-	font-family: 'panic', serif;
-
+	font-family: 'panic';
 }
 
 img{
